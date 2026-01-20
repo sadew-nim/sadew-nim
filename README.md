@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nimz
-I'm a 1st-year Software Engineering student passionate about coding, clean UI, and turning ideas into working projects.  
+- 👋 Hi, I’m Nimz Bandara
+I'm a 2nd year Software Engineering student passionate about coding, clean UI, and turning ideas into working projects.  
 
  🚀 About Me  
 - 👨‍💻 I'm currently working on a **Java-based Car Parts Marketplace** and a **Tkinter Expense Tracker App**  
@@ -11,7 +11,7 @@ I'm a 1st-year Software Engineering student passionate about coding, clean UI, a
 ---
 
 ## 💬 Let's Connect  
-- 📫 Reach me on TikTok: [@_nimz__](https://www.tiktok.com/@_nimz__)  
+- 📫 Reach me on TikTok: [Nimz Bandara](https://www.tiktok.com/@nimz_bandara?_r=1&_t=ZS-93DefR3obvc))  
 
 
 
